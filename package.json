@@ -11,6 +11,9 @@
     "magenta theme",
     "pink theme"
   ],
+  "repository": {
+    "url": "https://github.com/LuluAylen00/LuluTheme"
+},
   "engines": {
     "vscode": "^1.70.0"
   },
